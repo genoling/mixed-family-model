@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+说明 / Note
+
+- 本许可（MIT）适用于本仓库的**代码**（`code/`）。
+- 论文正文与图（`paper/`、`figures/`）建议采用 **CC BY 4.0**（署名 4.0 国际）：
+  https://creativecommons.org/licenses/by/4.0/deed.zh
+  若目标期刊要求版权转让或独家授权，请在投稿前改为相应的许可声明（如保留全部权利 / CC BY-NC-ND）。
+  正式发布前请由作者确认最终选择。

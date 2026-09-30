@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this model or code, please cite it as below."
+title: "独生与多子混合家庭模式的社会意义——基于集合论组合与计算模拟的理论建构"
+abstract: >-
+  本文用"场域隶属度"刻画独生（A）与多子（B）养育场域的五种组合形态，
+  建立资源—社会化—摩擦三维效用模型 U = R·S·(1-C)，
+  并用可复现的多主体模拟（300 家庭 × 80 代）检验混合模式的演化稳定性。
+  结果显示：混合模式是否占优取决于家庭外同伴能否替代同胞；
+  共居不构成帕累托改进；稳定的混合形态是单向寄养。
+type: software
+version: "0.1.0"
+date-released: "2026-09-30"
+license: MIT
+keywords:
+  - 独生子女
+  - 多子女家庭
+  - 混合家庭
+  - 资源稀释
+  - 同胞社会化
+  - 多主体模拟
+  - agent-based model
+authors:
+  - name: "genoling"
+    affiliation: "Shenzhen"
+repository-code: "https://github.com/genoling/mixed-family-model"
